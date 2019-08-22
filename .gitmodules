@@ -1,0 +1,3 @@
+[submodule "smart-on-fhir-tutorial"]
+	path = smart-on-fhir-tutorial
+	url = https://github.com/cerner/smart-on-fhir-tutorial.git
